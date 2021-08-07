@@ -1,0 +1,16 @@
+C:\Work\CollectNGo\CollectNGo\bin\Debug\net5.0\CollectNGo.exe
+C:\Work\CollectNGo\CollectNGo\bin\Debug\net5.0\CollectNGo.deps.json
+C:\Work\CollectNGo\CollectNGo\bin\Debug\net5.0\CollectNGo.runtimeconfig.json
+C:\Work\CollectNGo\CollectNGo\bin\Debug\net5.0\CollectNGo.runtimeconfig.dev.json
+C:\Work\CollectNGo\CollectNGo\bin\Debug\net5.0\CollectNGo.dll
+C:\Work\CollectNGo\CollectNGo\bin\Debug\net5.0\ref\CollectNGo.dll
+C:\Work\CollectNGo\CollectNGo\bin\Debug\net5.0\CollectNGo.pdb
+C:\Work\CollectNGo\CollectNGo\obj\Debug\net5.0\CollectNGo.csproj.AssemblyReference.cache
+C:\Work\CollectNGo\CollectNGo\obj\Debug\net5.0\CollectNGo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\CollectNGo\CollectNGo\obj\Debug\net5.0\CollectNGo.AssemblyInfoInputs.cache
+C:\Work\CollectNGo\CollectNGo\obj\Debug\net5.0\CollectNGo.AssemblyInfo.cs
+C:\Work\CollectNGo\CollectNGo\obj\Debug\net5.0\CollectNGo.csproj.CoreCompileInputs.cache
+C:\Work\CollectNGo\CollectNGo\obj\Debug\net5.0\CollectNGo.dll
+C:\Work\CollectNGo\CollectNGo\obj\Debug\net5.0\ref\CollectNGo.dll
+C:\Work\CollectNGo\CollectNGo\obj\Debug\net5.0\CollectNGo.pdb
+C:\Work\CollectNGo\CollectNGo\obj\Debug\net5.0\CollectNGo.genruntimeconfig.cache
